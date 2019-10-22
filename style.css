@@ -1,0 +1,51 @@
+/************** issidestymas ***************/
+.div-main {
+    background-color: #D5D3D3;
+    width: 40%;
+    text-align: center;
+    margin: 5em auto;
+    padding: 5em;
+}
+.div-one {
+    display: inline-block;
+    width: 45%;
+    /* border: 1px red solid; */
+    margin: 5px;
+}
+.div-two {
+    display: inline-block;
+    width: 45%;
+    /* border: 1px red solid; */
+    vertical-align: top;
+    margin: 4.5em 0 0 0;
+}
+
+
+/************** stilius***************/
+
+h1, p {
+    text-align: center;
+    font-family: 'Barlow Condensed', sans-serif;
+}
+h1 {
+    font-size: 4em;
+    margin: 0;
+}
+p {
+    font-size: 1.4em;
+}
+.home-buton {
+    background-color:#878686;  
+    padding: 12px; 
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+.second-p {
+    font-size: 1em;
+    margin-bottom: 1.5em;
+    color: rgba(0, 0, 0, 0.7);;
+}
