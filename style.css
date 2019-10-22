@@ -1,27 +1,26 @@
-/************** issidestymas ***************/
+/*=========== Layout ============*/
 .div-main {
     background-color: #D5D3D3;
     width: 40%;
     text-align: center;
-    margin: 5em auto;
+    margin: 4em auto;
     padding: 5em;
-}
+    }
+    
 .div-one {
     display: inline-block;
     width: 45%;
-    /* border: 1px red solid; */
     margin: 5px;
 }
 .div-two {
     display: inline-block;
     width: 45%;
-    /* border: 1px red solid; */
     vertical-align: top;
-    margin: 4.5em 0 0 0;
+    margin: 3.5em 0 0 0;
 }
 
 
-/************** stilius***************/
+/*=========== main style ============*/
 
 h1, p {
     text-align: center;
@@ -30,6 +29,7 @@ h1, p {
 h1 {
     font-size: 4em;
     margin: 0;
+    padding: 0;
 }
 p {
     font-size: 1.4em;
@@ -37,15 +37,19 @@ p {
 .home-buton {
     background-color:#878686;  
     padding: 12px; 
+    margin-top: .5em;
+    border: 1px solid #878686;
+    display: inline-block; /*collapsing margins*/
 }
 
 a {
     text-decoration: none;
     color: white;
+    
 }
 
 .second-p {
     font-size: 1em;
-    margin-bottom: 1.5em;
+    margin-bottom: 0em;
     color: rgba(0, 0, 0, 0.7);;
 }
