@@ -11,7 +11,7 @@ body {
     margin-left: 25%;
     margin-top: 3em;
     padding: 5em;
-    }
+}
 
 .main-image {
     display: inline-block;
@@ -23,16 +23,11 @@ body {
     display: inline-block;
     width: 50%;
     float: right;
-    margin: 3.5em 0 0 0;
+    margin-top: 3.5em;
 }
 
 /*=========== main style ============*/
 
-h1, p {
-    text-align: center;
-    display: inline-block;
-    width: 100%;
-}
 h1 {
     font-size: 4em;
     margin: 0;
